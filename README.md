@@ -24,3 +24,12 @@
 - структура записей- селектор{ свойство: значение ;}
 - в качестве селектора используют теги, классы,(начинаются с точки)
 - 
+body{color: rgb(184, 135, 253);}
+a{color:hsl(208, 52%, 60%)}
+.scream{color:rgb(18, 97, 12)}
+img{width: 100%;}
+.wrapper{max-width: 500px;
+margin: 0 auto;}
+.textBigBlue{text-transform: uppercase; color:rgb(255, 0, 140)}
+.textBigYellow{text-transform: uppercase; color: rgb(251, 182, 78)}
+p{text-align: left;}
