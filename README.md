@@ -33,3 +33,14 @@ margin: 0 auto;}
 .textBigBlue{text-transform: uppercase; color:rgb(255, 0, 140)}
 .textBigYellow{text-transform: uppercase; color: rgb(251, 182, 78)}
 p{text-align: left;}
+
+
+блочная модель классическая
+ размер блока = контент + внутр. отстур(padding) + рамка(border) + внеш.отступ(margin)
+блочная упрощенная модель
+(box-sizing: border-box;) = внеш.отступ(margin) + все остальное
+
+костыль - м-ду блоками ЕСТЬ зазор
+строчные элементы(буквицы) - размер аналогичен выше описанному... НО НЕ РАБОТАЕТ ВЕРХ И НИЗ
+дизайн скругление блоков с помощью {border-radius: 25%;} (значение в пикселях либо%)
+
