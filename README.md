@@ -108,6 +108,10 @@ p{text-align: left;}
    -чтобы блоки не сжимались при уменьшении страницы flex-wrap: wrap;
    -выравнивание по горизонтали justify-content: center| space-between; и тд
    -выравнивание по вертикали align-items: center| strench(растяжка);
+
+   #flex accordion
+   -flex-basis: 25% - базовая ширина флекс-контейнера
+   -text-shadow - в интеллект карте магазин генераторов теней(интересные полезняки)
    
    
 
